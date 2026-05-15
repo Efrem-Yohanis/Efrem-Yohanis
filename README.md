@@ -134,8 +134,8 @@ Adama Science and Technology University (2018 – 2022)
 
 ## 📫 Contact Me
 
-📧 Email: efremyohanis116@gmail.com  
-📞 Phone: +251930816415  
+📧 Email: efremyohanis116@gmail.com /efremyohanis111@gmail.com 
+📞 Phone: +251939816415/+251707035315  
 📍 Location: Ethiopia  
 
 ---
