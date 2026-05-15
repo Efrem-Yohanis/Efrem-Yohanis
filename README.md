@@ -72,31 +72,6 @@ I focus on building **reliable, scalable, and high-quality software systems**.
 - Team leadership experience in real projects  
 
 ---
-
-## 🚀 Featured Projects
-
-### 🍺 Beer Sales & Inventory System (BGI Ethiopia)
-- Inventory & sales management system  
-- Built with Django & Python  
-- REST API integration  
-- Reporting and analytics features  
-
----
-
-### 🏪 Store Management System (Dan Energy)
-- Inventory tracking system  
-- Backend development with Python & Django  
-- Database design and reporting  
-
----
-
-### 👨‍💼 HR Management System
-- Employee management platform  
-- Web-based system using Django + JavaScript  
-- Full-stack development  
-
----
-
 ## ⚙️ Technical Skills
 
 ### 💻 Programming
